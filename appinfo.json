@@ -1,7 +1,9 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_COLOUR_TEST": 0
+    },
     "capabilities": [
-        ""
+        "configurable"
     ],
     "companyName": "schorn.t@gmail.com",
     "longName": "circles",
