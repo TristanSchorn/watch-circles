@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "schorn.t@gmail.com",
+    "longName": "circles",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "circles",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "25787f0f-61f0-4da1-813d-6ed68f852c52",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
